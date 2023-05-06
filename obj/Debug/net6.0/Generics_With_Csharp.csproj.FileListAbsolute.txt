@@ -1,0 +1,15 @@
+E:\csharp\Csharp\Generics\repo\Generics_With_Csharp\bin\Debug\net6.0\Generics_With_Csharp.exe
+E:\csharp\Csharp\Generics\repo\Generics_With_Csharp\bin\Debug\net6.0\Generics_With_Csharp.deps.json
+E:\csharp\Csharp\Generics\repo\Generics_With_Csharp\bin\Debug\net6.0\Generics_With_Csharp.runtimeconfig.json
+E:\csharp\Csharp\Generics\repo\Generics_With_Csharp\bin\Debug\net6.0\Generics_With_Csharp.dll
+E:\csharp\Csharp\Generics\repo\Generics_With_Csharp\bin\Debug\net6.0\Generics_With_Csharp.pdb
+E:\csharp\Csharp\Generics\repo\Generics_With_Csharp\obj\Debug\net6.0\Generics_With_Csharp.csproj.AssemblyReference.cache
+E:\csharp\Csharp\Generics\repo\Generics_With_Csharp\obj\Debug\net6.0\Generics_With_Csharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\csharp\Csharp\Generics\repo\Generics_With_Csharp\obj\Debug\net6.0\Generics_With_Csharp.AssemblyInfoInputs.cache
+E:\csharp\Csharp\Generics\repo\Generics_With_Csharp\obj\Debug\net6.0\Generics_With_Csharp.AssemblyInfo.cs
+E:\csharp\Csharp\Generics\repo\Generics_With_Csharp\obj\Debug\net6.0\Generics_With_Csharp.csproj.CoreCompileInputs.cache
+E:\csharp\Csharp\Generics\repo\Generics_With_Csharp\obj\Debug\net6.0\Generics_With_Csharp.dll
+E:\csharp\Csharp\Generics\repo\Generics_With_Csharp\obj\Debug\net6.0\refint\Generics_With_Csharp.dll
+E:\csharp\Csharp\Generics\repo\Generics_With_Csharp\obj\Debug\net6.0\Generics_With_Csharp.pdb
+E:\csharp\Csharp\Generics\repo\Generics_With_Csharp\obj\Debug\net6.0\Generics_With_Csharp.genruntimeconfig.cache
+E:\csharp\Csharp\Generics\repo\Generics_With_Csharp\obj\Debug\net6.0\ref\Generics_With_Csharp.dll
